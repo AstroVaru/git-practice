@@ -1,1 +1,2 @@
-This file is regarding info about the testing \.
+This file is regarding info about the testing
+Will know more about this in future.

@@ -1,0 +1,1 @@
+Process of integrating a series of commits on the top of another base tip
